@@ -8,7 +8,6 @@ public class Page54Task2 {
         System.out.println("\\\\\\///");
         System.out.println("///\\\\\\");
         System.out.println(" //\\\\");
-        System.out.print("  / ");
-        System.out.print("\\");
+        System.out.println("  /\\ ");
     }
 }
