@@ -5,11 +5,6 @@ public class Page47Task13 {
         //Shatunova Kateryna KND 12
         System.out.println("\"Several slashes are sometimes seen,\"");
         System.out.println("said Sally. \"I've said so.\" See?");
-        System.out.print("\\");
-        System.out.print("/");
-        System.out.print("\\\\");
-        System.out.print("//");
-        System.out.print("\\\\\\");
-        System.out.print("///");
+        System.out.println("\\ / \\\\ // \\\\\\ ///");
     }
 }
